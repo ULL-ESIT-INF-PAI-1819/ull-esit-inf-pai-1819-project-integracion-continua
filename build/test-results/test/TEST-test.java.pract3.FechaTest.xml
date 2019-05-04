@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.java.pract3.FechaTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2019-05-04T22:26:26" hostname="dav-GL552VW" time="0.034">
+  <properties/>
+  <testcase name="testSiguienteAnio()" classname="test.java.pract3.FechaTest" time="0.009"/>
+  <testcase name="testSetDiaAndGetDia()" classname="test.java.pract3.FechaTest" time="0.001"/>
+  <testcase name="testAnteriorDia()" classname="test.java.pract3.FechaTest" time="0.001"/>
+  <testcase name="testAnteriorMes()" classname="test.java.pract3.FechaTest" time="0.001"/>
+  <testcase name="setIllegalMonth()" classname="test.java.pract3.FechaTest" time="0.002"/>
+  <testcase name="testSetMesAndGetMes()" classname="test.java.pract3.FechaTest" time="0.001"/>
+  <testcase name="testToString()" classname="test.java.pract3.FechaTest" time="0.002"/>
+  <testcase name="testAnteriorAnio()" classname="test.java.pract3.FechaTest" time="0.0"/>
+  <testcase name="testSiguienteDia()" classname="test.java.pract3.FechaTest" time="0.001"/>
+  <testcase name="testSiguienteMes()" classname="test.java.pract3.FechaTest" time="0.001"/>
+  <testcase name="setIllegalYear()" classname="test.java.pract3.FechaTest" time="0.002"/>
+  <testcase name="testGetDiaDeSemana()" classname="test.java.pract3.FechaTest" time="0.001"/>
+  <testcase name="testYearIsLeap()" classname="test.java.pract3.FechaTest" time="0.001"/>
+  <testcase name="setIllegalDay()" classname="test.java.pract3.FechaTest" time="0.002"/>
+  <testcase name="testGetAnioAndSetAnio()" classname="test.java.pract3.FechaTest" time="0.001"/>
+  <testcase name="testSetFecha()" classname="test.java.pract3.FechaTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
