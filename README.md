@@ -1,6 +1,12 @@
-# Tutorial: Como configurar Travis CI en un repositorio nuevo
+# Configurando herramientas de `Integración Contínua`
 
-[![Build Status](https://travis-ci.org/alu0100769609/TravisTest.svg?branch=travis)](https://travis-ci.org/alu0100769609/TravisTest)
+Recopilación de tutoriales configurando __Travis CI__, __Codacy__ y __Git hooks__ a partir de un proyecto de __Java__
+
+[![Build Status](https://travis-ci.org/alu0100769609/TravisTest.svg?branch=master)](https://travis-ci.org/alu0100769609/TravisTest)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c574e60fbcdf43e18b23df1e758842fe)](https://www.codacy.com/app/Dibad/TravisTest?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=alu0100769609/TravisTest&amp;utm_campaign=Badge_Grade)
+
+
+# Tutorial: Como configurar Travis CI en un repositorio nuevo
 
 ![Travis Logo](https://travis-ci.com/images/logos/TravisCI-Full-Color.png)
 
